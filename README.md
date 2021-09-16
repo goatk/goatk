@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @goatk 
+- 👀 I’m interested in ... learning Kali Linux and some repositories about cyber security
+- 🌱 I’m currently learning ...python 
+- 💞️ I’m looking to collaborate on ... noting special:)
+- 📫 How to reach me ... jaimem.casillas@gmail.com
